@@ -1,3 +1,6 @@
 [submodule "ookv"]
 	path = ookv
 	url = git://github.com/omegaonline/ookv.git
+[submodule "oobase"]
+	path = oobase
+	url = git://github.com/omegaonline/oobase.git
