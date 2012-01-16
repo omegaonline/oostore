@@ -1,6 +1,5 @@
 ACLOCAL_AMFLAGS = -I m4
 
-# Make sure you have a link to the OOBase src at ./oobase
 SUBDIRS = oobase ookv .
 
 EXTRA_DIST = \
